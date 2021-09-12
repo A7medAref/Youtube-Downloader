@@ -1,2 +1,3 @@
 # Youtube-Downloader
-This is a gui youtube downloader with python (in GUI we use tkinter library)
+App to download youtube videos ,was made with python.
+The source code and all images were included.
